@@ -59,8 +59,11 @@ São 10 semanas. Cada semana possui suas metas específicas.
 
   # Bônus:
 
-  A Regra de Ouro (Mindset): Não espere sentir 100% de confiança, pois a "síndrome do impostor" é comum.
-  O desenvolvedor Júnior é aquele que: Sabe o que não sabe:
+  A Regra de Ouro (Mindset):
+
+  Não espere sentir 100% de confiança, pois a "síndrome do impostor" é comum.
+  O desenvolvedor Júnior é aquele que:
+  Sabe o que não sabe:
 
   - Ele reconhece suas limitações e sabe onde buscar ajuda (documentação, Google, Stack Overflow, colegas de equipe). Consegue resolver problemas:
   - Seu principal valor é transformar um problema em um código funcional, mesmo que o código não seja perfeito (o "código limpo" e a otimização são habilidades de Pleno e Sênior).
