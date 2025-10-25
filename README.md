@@ -56,3 +56,13 @@ São 10 semanas. Cada semana possui suas metas específicas.
   - trabalhar no portifolio de projetos;
   - aplicar em vagas de t.i.;
   - vagas / linkedn / network;
+
+  # Bônus:
+
+  A Regra de Ouro (Mindset): Não espere sentir 100% de confiança, pois a "síndrome do impostor" é comum.
+  O desenvolvedor Júnior é aquele que: Sabe o que não sabe:
+
+  - Ele reconhece suas limitações e sabe onde buscar ajuda (documentação, Google, Stack Overflow, colegas de equipe). Consegue resolver problemas:
+  - Seu principal valor é transformar um problema em um código funcional, mesmo que o código não seja perfeito (o "código limpo" e a otimização são habilidades de Pleno e Sênior).
+  - Aprende rapidamente: Mostra proatividade em dominar as novas tecnologias que a vaga exige.
+    Conclusão: Pare de estudar a teoria em excesso. Comece a criar, falhar, depurar (resolver bugs) e reconstruir projetos. A experiência prática é a única forma real de saber que você tem o conhecimento "suficiente". O mercado de trabalho fará o teste final em você. Aplique-se às vagas!
