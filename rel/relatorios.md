@@ -8,3 +8,7 @@
 
 - Vi alguns vídeos sobre comandos git e sobre como funciona o trabalho em equipe através do github.
 - Assisti ao tópico "HTML" do curso da udemy (https://www.udemy.com/course/curso-web/learn/lecture/9592518#overview)
+
+## Dias 26/10 e 27/10/2025
+
+- Assisti as aulas contéudo de HTML
