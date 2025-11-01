@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    display: grid;
+    grid-template-areas:
+        "cabecalho cabecalho"
+        "section aside"
+        "footer footer";
+}
+
+.cabecalho {
+    grid-area: "cabecalho";
+    background-color: rgb(255, 166, 0);
+    height: 140px;
+}
+
+/*
+.main{
+    background-color: red;
+}
+*/
+.section {
+    grid-area: "section";
+    background-color: blue;
+}
+
+.aside {
+    grid-area: "aside";
+    background-color: rgb(0, 255, 213);
+}
+
+.footer {
+    grid-area: "footer";
+    background-color: green;
+}
