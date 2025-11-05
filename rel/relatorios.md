@@ -39,3 +39,9 @@ SOFT-SKILLS:
 ## Dia 01/11
 
 - Assisti as últimas aulas sobre os fundamentos CSS (c/ a notações)
+
+## Dia 03/11 a 05/11
+
+- Finalizado o módulo de CSS, realizei um experimento com css grid para compreender melhor os conceitos na prática;
+- Iniciado o módulo de JS, aulas iniciais;
+- Início do projeto web HTML/CSS/JS elementar (Site Institucional - Layout responsivo e interativo);
