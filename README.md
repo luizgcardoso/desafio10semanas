@@ -6,16 +6,16 @@ Este repesitório é dedicado a armazenagem do histórico de comprometimento com
 
 São 10 semanas. Cada semana possui suas metas específicas.
 
-## ✅ Semanas 1–2 – Fundamentos de Frontend (CONCLUÍDO)
+## 📆 Semanas 1–2 – Fundamentos de Frontend 
 
 **Objetivos atingidos:**
-- Curso completo de **HTML, CSS e JavaScript**
-- Criação e publicação de **1 site responsivo** a partir de layout pronto
+- [ ] Assistir ao Curso completo de **HTML, CSS e JavaScript**
+- [ ] Criar **1 site responsivo** a partir de layout pronto
 
-**Resultados:**
-✔ Base sólida de frontend  
-✔ Projeto inicial online  
-✔ Primeira experiência com versionamento e deploy  
+**Resultado esperado:**
+Base sólida de frontend  
+Projeto inicial online  
+Primeira experiência com versionamento e deploy  
 
 ---
 
@@ -24,13 +24,14 @@ São 10 semanas. Cada semana possui suas metas específicas.
 **Objetivo:** Consolidar domínio de HTML/CSS/JS e aplicar interatividade real.
 
 **Atividades:**
-- [ ] Criar **2 sites completos e mais complexos** com JavaScript dinâmico  
+- [ ] Terminar de assistir ao Curso completo de **HTML, CSS e JavaScript**
+- [ ] Criar **1 site mais completo/complexo** com JavaScript dinâmico  
 - [ ] Aplicar **boas práticas de acessibilidade e semântica HTML**  
 - [ ] Implementar **responsividade mobile-first**  
-- [ ] Publicar ambos os projetos (Netlify, Vercel ou GitHub Pages)  
+- [ ] Publicar ambos os projetos   
 
 **Resultado esperado:**  
-3 sites completos (incluindo o da semana 1–2), demonstrando domínio de frontend puro.  
+2 sites completos (incluindo o da semana 1–2), demonstrando domínio de frontend puro.  
 
 ---
 
@@ -42,7 +43,6 @@ São 10 semanas. Cada semana possui suas metas específicas.
 - [ ] Estudar **conceitos fundamentais de React** (componentes, props, estado, hooks)  
 - [ ] Recriar **um dos sites anteriores** em React  
 - [ ] Praticar **JSX**, **componentização** e **estilização com CSS Modules ou Styled Components**  
-- [ ] Publicar o projeto React (Vercel)  
 
 **Resultado esperado:**  
 Primeira aplicação React funcional publicada.  
@@ -57,7 +57,6 @@ Primeira aplicação React funcional publicada.
 - [ ] Estudar **requisições HTTP**, **fetch** e **axios**  
 - [ ] Consumir **APIs públicas** (PokéAPI, TMDB, GitHub API, etc.)  
 - [ ] Criar **1 mini projeto React** que exibe dados de uma API (busca, listagem, detalhes)  
-- [ ] Documentar o projeto (README com API usada, endpoints, prints)  
 
 **Resultado esperado:**  
 Aplicação React interativa com dados externos em tempo real.  
@@ -72,10 +71,10 @@ Aplicação React interativa com dados externos em tempo real.
 - [ ] Estudar **Node.js e Express** (rotas, middlewares, controllers)  
 - [ ] Criar uma **API CRUD simples** (ex.: tarefas, usuários, posts)  
 - [ ] Testar com **Insomnia/Postman**  
-- [ ] Gravar um vídeo curto (5 min) explicando o funcionamento da API  
+- [ ] Gravar um vídeo curto (5 min) explicando o funcionamento da API (desafio bõnus)
 
 **Resultado esperado:**  
-Primeira API funcional criada por você.  
+Primeira API funcional criada.  
 
 ---
 
@@ -87,10 +86,9 @@ Primeira API funcional criada por você.
 - [ ] Estudar **arquitetura RESTful** (métodos, status codes, boas práticas)  
 - [ ] Conectar o **frontend React** com a **API Node.js**  
 - [ ] Criar um **projeto fullstack simples** (ex.: lista de tarefas, CRUD de posts)  
-- [ ] Publicar frontend e backend (Render, Railway, ou Vercel + API externa)  
 
 **Resultado esperado:**  
-Primeira aplicação fullstack funcional e online.  
+Primeira aplicação fullstack funcional.  
 
 ---
 
@@ -99,7 +97,7 @@ Primeira aplicação fullstack funcional e online.
 **Objetivo:** Entender a base de dados relacional e aplicá-la no backend.
 
 **Atividades:**
-- [ ] Estudar **modelagem de dados**, **chaves primárias/estrangeiras**, **JOINs**  
+- [ ] Rever fundamentos de **modelagem de dados**, **chaves primárias/estrangeiras**, **JOINs**
 - [ ] Praticar SQL com **PostgreSQL ou MySQL**  
 - [ ] Integrar banco ao backend (usando **Sequelize** ou **Prisma**)  
 - [ ] Criar um **modelo ER (Entidade-Relacionamento)** e documentar  
@@ -135,11 +133,11 @@ API completa, segura e documentada.
 - [ ] Adicionar links de deploy, descrições e imagens dos projetos  
 
 **Resultado esperado:**  
-Portfólio profissional publicado com pelo menos **4 projetos sólidos**.  
+Portfólio profissional publicado com pelo menos **4 projetos validados**.  
 
 ---
 
-## 📆 Semana 11 – Aplicações e Networking
+## - Aplicações e Networking
 
 **Objetivo:** Entrar de vez no mercado com material sólido.
 
