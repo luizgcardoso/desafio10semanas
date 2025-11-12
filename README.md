@@ -6,56 +6,147 @@ Este repesitório é dedicado a armazenagem do histórico de comprometimento com
 
 São 10 semanas. Cada semana possui suas metas específicas.
 
-- Semana #01:
+## 📆 Semanas 1–2 – Fundamentos de Frontend 
 
-  - assistir curso html/css/js;
-  - construir 1 site responsivo até o fim a partir de layout pronto;
+**Objetivos atingidos:**
+- [ ] Assistir ao Curso completo de **HTML, CSS e JavaScript**
+- [ ] Criar **1 site responsivo** a partir de layout pronto
 
-- Semana #02:
+**Resultado esperado:**
+Base sólida de frontend  
+Projeto inicial online  
+Primeira experiência com versionamento e deploy  
 
-  - terminar o curso html/css/js;
-  - construir 2 sites complexos até o fim;
+---
 
-- Semana #03:
+## 📆 Semana 3 – Aprofundamento em Frontend
 
-  - compreender bem o uso de APIs e seu funcionamento;
-  - estudar e praticar framework react/ Recriar sites anteriores em React;
+**Objetivo:** Consolidar domínio de HTML/CSS/JS e aplicar interatividade real.
 
-- Semana #04:
+**Atividades:**
+- [ ] Terminar de assistir ao Curso completo de **HTML, CSS e JavaScript**
+- [ ] Criar **1 site mais completo/complexo** com JavaScript dinâmico  
+- [ ] Aplicar **boas práticas de acessibilidade e semântica HTML**  
+- [ ] Implementar **responsividade mobile-first**  
+- [ ] Publicar ambos os projetos   
 
-  - estudar até compreender API RestFul;
-  - praticar os conhecimentos adquiridos e gravar um vídeo explicando;
+**Resultado esperado:**  
+2 sites completos (incluindo o da semana 1–2), demonstrando domínio de frontend puro.  
 
-- Semana #05:
+---
 
-  - revisão do caminho "trilhado até o momento"... ;
-  - alinhamento de expectativas;
+## 📆 Semana 4 – React e Introdução a Componentes
 
-- Semana #06:
+**Objetivo:** Entrar no ecossistema React e entender sua lógica de funcionamento.
 
-  - revisar fundamentos banco de dados / pesquisar;
-  - estudar e praticar modelagem de banco de dados em situações reais;
+**Atividades:**
+- [ ] Estudar **conceitos fundamentais de React** (componentes, props, estado, hooks)  
+- [ ] Recriar **um dos sites anteriores** em React  
+- [ ] Praticar **JSX**, **componentização** e **estilização com CSS Modules ou Styled Components**  
 
-- Semana #07:
+**Resultado esperado:**  
+Primeira aplicação React funcional publicada.  
 
-  - estudar/pesquisar modos de conectar o bd no backend;
-  - praticar backend;
+---
 
-- Semana #08:
+## 📆 Semana 5 – APIs e Integração com React
 
-  - pesquisar mais sobre git e softskills;
-  - bonus / ... ;
+**Objetivo:** Compreender o consumo e funcionamento de APIs externas.
 
-- Semana #09:
+**Atividades:**
+- [ ] Estudar **requisições HTTP**, **fetch** e **axios**  
+- [ ] Consumir **APIs públicas** (PokéAPI, TMDB, GitHub API, etc.)  
+- [ ] Criar **1 mini projeto React** que exibe dados de uma API (busca, listagem, detalhes)  
 
-  - inicializar portifolio;
-  - vagas / linkedn / network;
+**Resultado esperado:**  
+Aplicação React interativa com dados externos em tempo real.  
 
-- Semana #10:
+---
 
-  - trabalhar no portifolio de projetos;
-  - aplicar em vagas de t.i.;
-  - vagas / linkedn / network;
+## 📆 Semana 6 – Introdução ao Backend (Node.js + Express)
+
+**Objetivo:** Entender a estrutura de um servidor backend e criar uma API simples.
+
+**Atividades:**
+- [ ] Estudar **Node.js e Express** (rotas, middlewares, controllers)  
+- [ ] Criar uma **API CRUD simples** (ex.: tarefas, usuários, posts)  
+- [ ] Testar com **Insomnia/Postman**  
+- [ ] Gravar um vídeo curto (5 min) explicando o funcionamento da API (desafio bõnus)
+
+**Resultado esperado:**  
+Primeira API funcional criada.  
+
+---
+
+## 📆 Semana 7 – API RESTful + Integração Front/Back
+
+**Objetivo:** Unir frontend e backend para criar um sistema completo.
+
+**Atividades:**
+- [ ] Estudar **arquitetura RESTful** (métodos, status codes, boas práticas)  
+- [ ] Conectar o **frontend React** com a **API Node.js**  
+- [ ] Criar um **projeto fullstack simples** (ex.: lista de tarefas, CRUD de posts)  
+
+**Resultado esperado:**  
+Primeira aplicação fullstack funcional.  
+
+---
+
+## 📆 Semana 8 – Banco de Dados (SQL e Modelagem)
+
+**Objetivo:** Entender a base de dados relacional e aplicá-la no backend.
+
+**Atividades:**
+- [ ] Rever fundamentos de **modelagem de dados**, **chaves primárias/estrangeiras**, **JOINs**
+- [ ] Praticar SQL com **PostgreSQL ou MySQL**  
+- [ ] Integrar banco ao backend (usando **Sequelize** ou **Prisma**)  
+- [ ] Criar um **modelo ER (Entidade-Relacionamento)** e documentar  
+
+**Resultado esperado:**  
+API conectada a banco de dados relacional com persistência real.  
+
+---
+
+## 📆 Semana 9 – Backend Avançado + Autenticação
+
+**Objetivo:** Aprender autenticação e refinar a arquitetura backend.
+
+**Atividades:**
+- [ ] Implementar **autenticação JWT** (login e registro de usuários)  
+- [ ] Criar **middlewares de autorização**  
+- [ ] Documentar endpoints com **Swagger** ou **README detalhado**  
+- [ ] Testar todas as rotas com Postman  
+
+**Resultado esperado:**  
+API completa, segura e documentada.  
+
+---
+
+## 📆 Semana 10 – Git, Portfólio e Soft Skills
+
+**Objetivo:** Profissionalizar seus projetos e sua presença online.
+
+**Atividades:**
+- [ ] Melhorar histórico de commits e README de cada projeto  
+- [ ] Aprimorar perfis no **GitHub** e **LinkedIn**  
+- [ ] Criar seu **portfólio pessoal** (React ou Next.js)  
+- [ ] Adicionar links de deploy, descrições e imagens dos projetos  
+
+**Resultado esperado:**  
+Portfólio profissional publicado com pelo menos **4 projetos validados**.  
+
+---
+
+## - Aplicações e Networking
+
+**Objetivo:** Entrar de vez no mercado com material sólido.
+
+**Atividades:**
+- [ ] Revisar portfólio e perfil do LinkedIn  
+- [ ] Aplicar em **5+ vagas reais** (LinkedIn, Gupy, Programathor, etc.)  
+- [ ] Fazer **1 post por semana** sobre aprendizados e progresso  
+- [ ] Pedir **feedbacks de outros devs** e da comunidade  
+
 
   # Bônus:
 
