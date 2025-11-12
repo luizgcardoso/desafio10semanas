@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teste de Layouts</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      display: grid;
+      grid-template-rows: 1fr auto 1fr;
+      min-height: 100vh;
+
+    }
+
+    .cabecalho {
+      display: flex;
+      align-items: center;
+      background-color: lightgoldenrodyellow;
+      padding: 20px;
+    }
+
+    #sobre {
+      display: grid;
+      grid-template-rows: auto auto;
+      gap: 20px;
+    }
+
+    #sobre {
+      display: grid;
+      grid-template-areas:
+        "texto1 imagem1"
+        "texto2 imagem2";
+      gap: 5px;
+      padding: 20px;
+      background-color: lightgreen;
+    }
+
+    .r1 {
+      grid-area: texto1;
+      padding: 100px;
+      border: 2px solid black;
+    }
+
+    .r2 {
+      grid-area: texto2;
+      padding: 100px;
+      border: 2px solid black;
+    }
+
+    .img-r1 {
+      grid-area: imagem1;
+      padding: 100px;
+      border: 2px solid black;
+    }
+
+    .img-r2 {
+      grid-area: imagem2;
+      padding: 100px;
+      border: 2px solid black;
+    }
+
+    .final {
+      background-color: lightpink;
+      padding: 10px;
+      text-align: center;
+
+    }
+
+    .final form {
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      gap: 10px;
+      align-items: center;
+      background-color: lightblue;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: lightcoral;
+      border: 2px solid darkred;
+      color: white;
+      font-size: 16px;
+      border-radius: 20px;
+    }
+
+    button:hover {
+      background-color: darkred;
+      cursor: pointer;
+    }
+
+    .rodape {
+      background-color: lightsalmon;
+      padding: 20px;
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      #sobre {
+        grid-template-areas:
+          "texto1"
+          "texto2";
+      }
+
+      #sobre .img-r1,
+      #sobre .img-r2 {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="cabecalho">
+    <h1>Teste de Layouts</h1>
+  </header>
+  <main>
+    <section id="sobre">
+      <div class="r1">
+        <h2>Sobre</h2>
+        <p>Esta é uma seção sobre o projeto.</p>
+
+      </div>
+      <div class="img-r1">
+        <img src="../assets/img-header.png" alt="Imagem de Cabeçalho">
+      </div>
+      <div class="r2">
+        <h2>Sobre</h2>
+        <p>Esta é uma seção sobre o projeto.</p>
+
+      </div>
+      <div class="img-r2">
+        <img src="../assets/img-header.png" alt="Imagem de Cabeçalho">
+      </div>
+    </section>
+    <aside class="final">
+      <form action="">
+        <h2>Contato</h2>
+        <input type="text" placeholder="Nome">
+        <input type="text" placeholder="Email">
+        <input type="text" placeholder="Mensagem">
+        <button type="submit">Enviar</button>
+      </form>
+    </aside>
+  </main>
+  <footer class="rodape">
+    <p>&copy; 2023 Teste de Layouts</p>
+  </footer>
+</body>
+
+</html>

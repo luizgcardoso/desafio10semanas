@@ -1,6 +1,6 @@
 # DESAFIO DE 10 SEMANAS
 
-Este repesitório é dedicado a armazenagem do histórico de comprometimento com o desafio que eu desenvolvi para mim mesmo com a finalidade de startar minha carreira como desenvolvedor fullstack.
+Este repesitório é dedicado a armazenagem do histórico de comprometimento com o desafio que eu desenvolvi para mim com a finalidade de startar minha carreira como desenvolvedor fullstack.
 
 ## Como funciona
 

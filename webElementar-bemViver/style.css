@@ -1,0 +1,159 @@
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #e0e0e0;
+  margin: 20px;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header {
+  width: 100%;
+  height: 48vh;
+  background-color: #fff;
+  background-image: url("assets/img-header.png");
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.header-content {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 8rem 2rem;
+}
+header h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+#sobre {
+  display: grid;
+  grid-template-areas:
+    "texto imagem"
+    "botao imagem";
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 40px 20px;
+  align-items: center;
+  justify-items: center;
+}
+#sobre div {
+  grid-area: texto;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  float: left;
+}
+#sobre img {
+  grid-area: imagem;
+  display: grid;
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#sobre button {
+  grid-area: botao;
+  display: grid;
+  align-self: center;
+  justify-self: center;
+}
+
+#servicos h2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+.container {
+  display: grid;
+  grid-template-areas: "uno dos tres";
+  grid-template-columns: repeat(3, auto);
+  gap: 1rem;
+  padding: 40px 20px;
+  align-items: center;
+  justify-content: center;
+}
+#servicos img {
+  width: 180px;
+  height: 180px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#contato .descricao {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.formulario {
+  padding: 10px 20px;
+  border: #b8b0b0 1px solid;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.formulario label {
+  display: block;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+footer p {
+  font-size: 14px;
+  color: #3c2a78;
+  text-align: center;
+  padding: 1rem 0;
+}
+button {
+  background-color: #3c2a78;
+  color: white;
+  padding: 12px 20px;
+  margin: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+button:hover {
+  background-color: #4caf50;
+  font-size: 0.9rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333;
+}
+p {
+  color: #2c2b2b;
+  line-height: 1.6;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

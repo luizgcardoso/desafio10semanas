@@ -44,4 +44,8 @@ SOFT-SKILLS:
 
 - Finalizado o módulo de CSS, realizei um experimento com css grid para compreender melhor os conceitos na prática;
 - Iniciado o módulo de JS, aulas iniciais;
-- Início do projeto web HTML/CSS/JS elementar (Site Institucional - Layout responsivo e interativo);
+- Início do projeto webElementar-bemViver (Site Institucional com Layout responsivo e interativo);
+
+## Dia 10/11 a 11/11
+
+- Assistindo ao módulo Javascript e praticando layout html css com grid e flexbox
