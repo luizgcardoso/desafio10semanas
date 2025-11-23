@@ -49,3 +49,10 @@ SOFT-SKILLS:
 ## Dia 10/11 a 11/11
 
 - Assistindo ao módulo Javascript e praticando layout html css com grid e flexbox
+
+# Dia 21/11 a 23/11
+
+- Finalizado módulo de Javascript... Já entendi os conceitos, agora é praticar e praticar...
+- Iniciado os estudos sobre a ferramenta React
+- Finalizado módulo React do Curso Udemy... Tenho mais um curso de React com projeto pela plataforma origamid (vou postergar por conta do prazo)
+- Estudando React em paralelo através de pesquisas online e documentação oficial da ferramenta
